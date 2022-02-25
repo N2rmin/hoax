@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "hoaxify",
+      "type": "com.hoaxify.ws.configuration.AppConfiguration",
+      "sourceType": "com.hoaxify.ws.configuration.AppConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hoaxify.attachment-storage",
+      "type": "java.lang.String",
+      "sourceType": "com.hoaxify.ws.configuration.AppConfiguration"
+    },
+    {
+      "name": "hoaxify.profile-storage",
+      "type": "java.lang.String",
+      "sourceType": "com.hoaxify.ws.configuration.AppConfiguration"
+    },
+    {
+      "name": "hoaxify.upload-path",
+      "type": "java.lang.String",
+      "sourceType": "com.hoaxify.ws.configuration.AppConfiguration"
+    }
+  ],
+  "hints": []
+}
